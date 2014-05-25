@@ -1,3 +1,11 @@
+SimpleKernel
+==============
+
+This is SimpleKernel forked from:
+
+https://github.com/dr87/SimpleKernel/tree/cleanaosp
+---------------
+
 	Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
